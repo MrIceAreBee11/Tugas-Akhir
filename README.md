@@ -1,8 +1,8 @@
 # Tugas-Akhir
 
-# 📘 Skripsi - Identifikasi Ayat-Ayat Al-Qur'an yang Sulit Menggunakan Random Forest
+# 📘 Skripsi - Identifikasi Ayat-Ayat Al-Qur'an yang Sulit Menggunakan Random Forest dan SVM
 
-Repositori ini berisi file data dan kode program yang digunakan dalam penelitian skripsi dengan judul **"Identifikasi Ayat-Ayat Al-Qur’an yang Sulit Menggunakan Random Forest"**.
+Repositori ini berisi file data dan kode program yang digunakan dalam penelitian skripsi dengan judul **"Identifikasi Ayat-Ayat Al-Qur’an yang Sulit Menggunakan Random Forest dan SVM"**.
 
 ## 📂 Isi Folder
 
